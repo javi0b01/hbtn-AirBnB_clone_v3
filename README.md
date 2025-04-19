@@ -166,9 +166,6 @@ Public Domain. No copy write protection.
 # 0x05. AirBnB clone - RESTful API
 Foundations - Higher-level programming ― AirBnB clone
 
-###### :copyright: **[Holberton School](https://www.holbertonschool.com/)**
-by _Guillaume_
-
 ## Learning Objectives
 ###### General
 * What REST means
@@ -234,6 +231,6 @@ by _Guillaume_
 
 Branch ```storage_get_count```
 ## Developers in 0x05. AirBnB clone - RESTful API
-[javi](https://github.com/javi0x00)
+[Javi](https://github.com/javi0b01)
 
 :man_technologist: :books: :computer: :globe_with_meridians:
